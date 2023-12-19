@@ -1,7 +1,0 @@
-C:\Users\Henri\source\repos\antsimulatorApp\antsimDB\obj\Debug\net8.0\AntAPIDb.csproj.AssemblyReference.cache
-C:\Users\Henri\source\repos\antsimulatorApp\antsimDB\obj\Debug\net8.0\AntAPIDb.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Henri\source\repos\antsimulatorApp\antsimDB\obj\Debug\net8.0\AntAPIDb.AssemblyInfoInputs.cache
-C:\Users\Henri\source\repos\antsimulatorApp\antsimDB\obj\Debug\net8.0\AntAPIDb.AssemblyInfo.cs
-C:\Users\Henri\source\repos\antsimulatorApp\antsimDB\obj\Debug\net8.0\AntAPIDb.csproj.CoreCompileInputs.cache
-C:\Users\Henri\source\repos\antsimulatorApp\antsimDB\obj\Debug\net8.0\AntAPIDb.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Henri\source\repos\antsimulatorApp\antsimDB\obj\Debug\net8.0\AntAPIDb.MvcApplicationPartsAssemblyInfo.cache
