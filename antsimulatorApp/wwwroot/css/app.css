@@ -1,0 +1,31 @@
+﻿html, body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.sim-grid {
+    height: 600px;
+    width: 600px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.sim-square {
+    width: 15px;
+    height: 15px;
+}
+
+.edge {
+    background-color: black !important;
+}
+
+p {
+    font-size: 10px;
+}
+
+.grass {
+    background-color: green;
+}
+
+.dirt {
+    background-color: saddlebrown;
+}
